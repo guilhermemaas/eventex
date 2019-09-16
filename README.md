@@ -8,7 +8,7 @@ Sistema de Eventos.
 2. Crie um virtualenv com Python 3.5.
 3. Ative o virtualenv.
 4. Instale as dependencias.
-5. Configura a instancia com o .env.
+5. Configure a instancia com o .env.
 6. Execute os testes.
 
 ```console
